@@ -6,6 +6,7 @@ Below, you will find a list to the most significant files/links as well as a lis
 ## Links
 This section is currently as dead as Michael's brain.  
 + [ISSUES](ISSUES.md)
++ [WORKAROUNDS](WORKAROUNDS.md)
 + [RESOLVED](RESOLVED.md)
 + [SPECS](https://www.gsmarena.com/lg_g6-8466.php)
 
