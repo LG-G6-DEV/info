@@ -4,6 +4,7 @@ Table of Contents:
 + [VoLTE](#VoLTE)
 + [5-GHz-Hotspot](#5-GHz-Hotspot)
 + [AoD](#AoD)
++ [Widevine L1](#Widevine-L1)
 
 ## VoLTE
 **Description:** VoLTE is currently absent on all Custom ROMs.  
@@ -25,6 +26,13 @@ Table of Contents:
 **Faulty Behaviour:** System does not address the right panel and uses the main display.  
 **Analysis:** Description  
 **Further References:** Logs, fix attempts etc. go here.  
+
+## Widevine-L1
+**Description:** After updating of some widevine blobs from crosshatch (afaik), we have L3 widevine status.  
+**Fixable?** Yes.  
+**Faulty Behaviour:** Widevine L3 status instead of L1.  
+**Analysis:** Description  
+**Further References:** Gotta update Widevine blobs. 
 
 ## Template
 **Description:** Description  
