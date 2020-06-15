@@ -16,6 +16,6 @@ This section is currently as dead as Michael's brain.
 | Michael Bardoň	| HavocOS			| [@wolfsvk](https://t.me/wolfsvk)|
 | kyu				| CarbonROM		| [@kyunal](https://t.me/kyunal)|
 | Alin Miron		| Pixel Experience	| [@alinmiron](https://t.me/alinmiron)|
-| Dominik			|					| [@dom133](https://t.me/dom133)|
-| Lukas			| LineageOS 17.1	| [@luke_1123](https://t.me/luke_1123)|
+| Dominik			| AOSP Extended / Paranoid Android  | [@dom133](https://t.me/dom133)|
+| Lukas			| LineageOS 17.1  | [@luke_1123](https://t.me/luke_1123)|
 | zefie				|					| [@zefie](https://t.me/zefie)|
